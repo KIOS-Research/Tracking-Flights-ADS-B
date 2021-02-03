@@ -1,0 +1,8 @@
+pathfile: Historic Aircrafts.geojson
+currentAircrafts: Current Aircrafts.geojson
+lat: 35.145155
+lon: 33.409327
+rtlpath: rtl1090.beta3.exe
+adbspath: adbs.exe
+thresholdTime: 5
+dirProject: results
